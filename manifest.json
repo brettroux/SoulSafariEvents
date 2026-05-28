@@ -8,12 +8,12 @@
   "description": "A luxury wilderness wellness gathering at Bayala Safari Lodge, Zululand.",
   "icons": [
     {
-      "src": "assets/soul-safari/icon-192.png",
+      "src": "soul-safari/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "assets/soul-safari/icon-512.png",
+      "src": "soul-safari/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }

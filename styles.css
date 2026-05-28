@@ -164,7 +164,7 @@ h3 {
 .hero-background {
   background:
     linear-gradient(180deg, rgba(25, 22, 18, 0.43) 0%, rgba(25, 22, 18, 0.63) 52%, rgba(25, 22, 18, 0.91) 100%),
-    url("assets/soul-safari/elephant-drive.webp") 63% center / cover;
+    url("soul-safari/elephant-drive.webp") 63% center / cover;
   inset: 0;
   position: absolute;
 }
@@ -511,7 +511,7 @@ h3 {
 .register-background {
   background:
     linear-gradient(rgba(33, 28, 23, 0.82), rgba(33, 28, 23, 0.92)),
-    url("assets/soul-safari/sunset-safari.webp") center / cover;
+    url("soul-safari/sunset-safari.webp") center / cover;
   inset: 0;
   position: absolute;
 }
@@ -630,7 +630,7 @@ h3 {
     background:
       linear-gradient(90deg, rgba(25, 22, 18, 0.75), rgba(25, 22, 18, 0.21)),
       linear-gradient(0deg, rgba(25, 22, 18, 0.58), transparent 44%),
-      url("assets/soul-safari/elephant-drive.webp") center / cover;
+      url("soul-safari/elephant-drive.webp") center / cover;
   }
 
   .hero-content {

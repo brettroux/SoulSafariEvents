@@ -5,19 +5,19 @@ const CORE_ASSETS = [
   "./styles.css?v=4",
   "./app.js?v=5",
   "./manifest.json",
-  "./assets/soul-safari/logo.png",
-  "./assets/soul-safari/icon-192.png",
-  "./assets/soul-safari/icon-512.png",
-  "./assets/soul-safari/elephant-drive.webp",
-  "./assets/soul-safari/sunset-safari.webp",
-  "./assets/soul-safari/movement-circle.webp",
-  "./assets/soul-safari/ritual-mats.webp",
-  "./assets/soul-safari/sensory-table.webp",
-  "./assets/soul-safari/bayala-aerial.webp",
-  "./assets/soul-safari/christie-holt.webp",
-  "./assets/soul-safari/trisha-crookes.webp",
-  "./assets/soul-safari/robyn-rose.webp",
-  "./assets/soul-safari/despi-forbes.webp"
+  "./soul-safari/logo.png",
+  "./soul-safari/icon-192.png",
+  "./soul-safari/icon-512.png",
+  "./soul-safari/elephant-drive.webp",
+  "./soul-safari/sunset-safari.webp",
+  "./soul-safari/movement-circle.webp",
+  "./soul-safari/ritual-mats.webp",
+  "./soul-safari/sensory-table.webp",
+  "./soul-safari/bayala-aerial.webp",
+  "./soul-safari/christie-holt.webp",
+  "./soul-safari/trisha-crookes.webp",
+  "./soul-safari/robyn-rose.webp",
+  "./soul-safari/despi-forbes.webp"
 ];
 
 self.addEventListener("install", (event) => {

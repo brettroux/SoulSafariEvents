@@ -228,7 +228,7 @@ Keep contrast calm and strong: ivory on charcoal; deep brown on ivory/sand. Avoi
 
 ## 5. Image / Video Placement Notes
 
-Use the supplied brochure photography in the `assets/soul-safari` folder.
+Use the supplied brochure photography in the root-level `soul-safari` folder.
 
 | Section | Media | Placement |
 | --- | --- | --- |
