@@ -237,6 +237,7 @@ Use the supplied brochure photography in the root-level `soul-safari` folder.
 | Weekend Flow | `ritual-mats.webp` | Full-height left image on desktop; full-width image above copy on mobile |
 | Venue | `bayala-aerial.webp` | Large lodge/wilderness image beside venue copy |
 | Facilitators | Supplied practitioner/session images | Five simple image-and-text cards; do not add decorative overlays |
+| Cindy facilitator image | `cindy-rynhoud.png` | Use this image specifically for Cindy Rynhoud's facilitator card |
 | Partners | `sensory-table.webp` | Large table detail beside partnership copy |
 | Register Interest | `sunset-safari.webp` | Quiet background with heavy charcoal overlay |
 

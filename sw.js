@@ -13,6 +13,7 @@ const CORE_ASSETS = [
   "./soul-safari/movement-circle.webp",
   "./soul-safari/ritual-mats.webp",
   "./soul-safari/sensory-table.webp",
+  "./soul-safari/cindy-rynhoud.png",
   "./soul-safari/bayala-aerial.webp",
   "./soul-safari/christie-holt.webp",
   "./soul-safari/trisha-crookes.webp",
